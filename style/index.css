@@ -17,7 +17,7 @@ body {
     margin-top: 50px;
     padding-left: 10px;
     padding-right: 10px;
-    widows: 10px;
+  
 }
 
 .card {
@@ -50,6 +50,14 @@ div#books > h2 {
 
 p > b {
     font-size: 1.5rem;
+}
+
+.seller{
+    margin-right: 50px;
+    float: right;
+    font-family: oswald;
+    margin-top:350px;
+    position: relative;
 }
 
 @media only screen and (max-width: 768px) {
